@@ -138,7 +138,6 @@ Lenguaje comercial agresivo
 Términos técnicos innecesarios
 
 
-
 ---
 
 ## Consideraciones legales
