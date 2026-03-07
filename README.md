@@ -1,173 +1,41 @@
-# INFORME — DEFINICIÓN DEL PROYECTO WEB
+# Colegal Service Website
 
-Tipo: Página web (tarjeta de presentación)
-Objetivo: Presencia profesional + canalización de contactos
-Estado: Definición funcional cerrada
+Sitio web institucional para **Colegal Service**, enfocado en presentar servicios de asesoría en procesos de visa y facilitar el contacto con el equipo encargado.
 
+El sitio tiene como objetivo principal:
 
-## Objetivo del proyecto
+- informar sobre los servicios ofrecidos
+- facilitar el contacto con el equipo
+- permitir solicitudes de consulta y precalificación
+- captar nuevos clientes interesados en procesos migratorios
 
-Desarrollar una página web simple, clara y profesional que funcione como tarjeta de presentación de un servicio de asesoría para trámites de visa ante embajadas.
+## Características
 
-La web no busca vender en línea, ni gestionar casos automáticamente.
-Su función principal es:
+- sitio web informativo
+- formulario de contacto y solicitud de consulta
+- contenido disponible en múltiples idiomas
+- diseño optimizado para acceso desde dispositivos móviles
 
-- Explicar brevemente el servicio
-- Generar confianza
-- Centralizar el contacto
-- Canalizar los casos hacia el equipo adecuado
+## Contenido del repositorio
 
+Este repositorio contiene los archivos del sitio web utilizados para su despliegue.
 
+Incluye:
 
-## Alcance funcional
+- páginas HTML
+- estilos CSS
+- recursos gráficos
+- archivos de configuración necesarios para el despliegue del sitio
 
-La página debe permitir:
+## Alcance del proyecto
 
-1. Presentar el servicio de forma clara y sobria
-2. Mostrar el modelo de trabajo (contacto único → derivación interna)
-3. Exponer el respaldo jurídico (2 abogadas aliadas)
-4. Ofrecer un solo punto de entrada para el cliente
-5. Facilitar contacto por:
-WhatsApp
-Telegram
-Correo electrónico
+El sitio web tiene un enfoque informativo y de generación de contacto.  
+No incluye sistemas de gestión de usuarios ni almacenamiento de datos sensibles.
 
-Todo el contacto llega a una sola persona encargada de visas, quien:
+## Actualización de contenido
 
-. Recibe la información
-. Filtra el caso
-. Redirecciona internamente a las abogadas cuando aplica
+Las actualizaciones del contenido del sitio se realizan mediante el proceso de construcción y publicación del proyecto.
 
+## Licencia
 
-
-## Fuera de alcance
-
-No cotizaciones automáticas
-No reservas de citas
-No pagos
-No login de usuarios
-No formularios largos o complejos
-No contacto directo del cliente con las abogadas desde la web
-
-
-## Público objetivo
-
-Personas que:
-
-. Necesitan orientación para trámites de visa
-. Están en proceso de presentar documentación ante embajadas
-. Buscan acompañamiento y claridad
-. Tienen alto nivel de ansiedad y desconfianza
-
-
-
-## Estructura del sitio 
-
-Sitio pequeño, principalmente 1 landing page + páginas auxiliares
-
-
-
-Secciones previstas:
-
-1. (mensaje principal + CTA)
-2. Servicios
-3. Cómo trabajamos
-4. Equipo / respaldo jurídico
-5. Contacto
-6. Información legal / disclaimers
-
-
-*Páginas de abogadas (2)*
-
-Cada una con:
-
-Nombre
-Foto
-Breve perfil profesional
-Rol dentro del proyecto
-Texto informativo (no comercial)
-Sin formulario propio (contacto siempre centralizado)
-
-
-
-## Modelo de comunicación
-
-Principio rector
-
-> Un solo punto de entrada, múltiples expertos detrás.
-
-
-
-Implementación práctica:
-
-Los botones de contacto apuntan a:
-
-. WhatsApp principal
-. Telegram principal
-. Correo principal
-
-
-## Canales de contacto
-
-Canales visibles en la web:
-
-WhatsApp
-Telegram
-Correo electrónico
-
-
-Condición:
-Todos llegan a la persona encargada de visas
-No se automatiza derivación desde la web
-
-
-
-## Mensaje que debe transmitir la web
-
-Acompañamiento
-Orden
-Claridad
-Respaldo profesional
-Transparencia
-
-
-Evitar:
-
-Promesas de aprobación
-Lenguaje comercial agresivo
-Términos técnicos innecesarios
-
-
----
-
-## Consideraciones legales
-
-Debe incluirse un bloque visible (footer o sección dedicada) con:
-. No somos embajada ni intermediarios oficiales
-. No se garantizan resultados
-. La decisión final es de la autoridad consular
-. La orientación jurídica es brindada exclusivamente por las abogadas aliadas cuando el caso lo requiere
-
-
-
----
-
-## Stack técnico (solo referencia, no foco)
-
-CMS: WordPress
-Dominio: Cloudflare (ya decidido)
-Hosting WordPress: a definir
-
----
-
-
-## Notas finales para desarrollo
-
-. Mantener el sitio ligero
-. Priorizar legibilidad sobre diseño complejo
-. Evitar plugins innecesarios
-. Pensar el sitio como punto de entrada, no como sistema
-
-
-
-.
+El contenido, diseño y materiales incluidos en este repositorio pertenecen a **Colegal Service**.
