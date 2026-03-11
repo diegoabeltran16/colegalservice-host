@@ -1,0 +1,84 @@
+/*
+Theme Name: hello elementor child
+Author: 
+Description: Your description goes here
+Version: 1.0
+Template: hello-elementor
+
+This is the child theme for Hello Elementor theme, generated with Generate Child Theme plugin by catchthemes.
+
+(optional values you can add: Theme URI, Author URI, License, License URI, Tags, Text Domain)
+*/
+
+.menu li {
+    margin: 0px 14px;
+}
+
+.site-header {
+    background: #F5F4F0;
+}
+
+.site-header {
+    padding-block-end: 2rem !important;
+    padding-block-start: 2rem !important;
+}
+
+a.contacto-btn {
+    background: #caa625;
+    color: #222222;
+    align-items: center;
+    font-weight: 600;
+    position: relative;
+    display: flex;
+    padding: 10px 30px;
+    height: 50px;
+    margin: 0px 15px;
+    border-radius: 100px;
+}
+
+.site-header .header-inner {
+    align-items: center;
+}
+
+.col-tag-a {
+    width: 50%;
+    height: 7px;
+    background: #FCD116;
+}
+
+.col-tag-z {
+    margin: 0px 0px;
+    width: 25%;
+    height: 7px;
+    background: #003893;
+}
+
+.col-tag-r {
+    width: 25%;
+    height: 7px;
+    background: #CE1126;
+}
+
+.col-tag {
+    margin: 20px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.icon-button-color-1 span.elementor-button-icon {
+    fill: #caa625;
+}
+
+.site-header {
+    border-top: solid 5px #c9a624;
+}
+
+
+.menu li a:hover {
+    color: #caa639 !important;
+}
+
+.current-menu-item {
+    border-bottom: solid 3px #caa639;
+}
